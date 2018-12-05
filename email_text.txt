@@ -1,0 +1,7 @@
+An example email body:
+
+Hi <name>,
+
+Since you're my <relation>! I'm sending this super heartfelt personalized message that took years to craft. Jk lolz I wrote a script to send mass personalized emails and I'm sending 100 billion emails in the matter of seconds. But remember the time <memory>? Didn't we have <feeling>? Love you!
+
+Best, Griffin
