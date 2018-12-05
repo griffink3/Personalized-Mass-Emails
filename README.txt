@@ -21,4 +21,4 @@ Bye!"
 
 Note: If your email account is super secure you might get an "SMTPAuthenticationError(code, resp)" when you try running the script. If you're using gmail, you can fix this by going into the security settings of your gmail account (https://myaccount.google.com/u/4/security#signin) and turning on "Allow less secure apps".
 
-Possible Uses: Nigerian Prince scam, sending all your ex's an email saying you have chlamydia, and thanking all the people who came to your barmitzvah so your mom gives you the money.
+Possible Uses: Nigerian Prince scam, sending all your ex's an email saying you have chlamydia, and thanking all the people who came to your barmitzvah so your mom gives you the gift money.
