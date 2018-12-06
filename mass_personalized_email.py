@@ -1,7 +1,9 @@
 #! /usr/bin/env python
 """
-A skeleton python script which reads from an input file,
-writes to an output file and parses command line arguments
+A python script that can be used to send mass emails that are personalized using
+info read in from a csv file. THe SMTP host address, SMTP port, sender email, and 
+sender password are required as command line arguments. Please read the README for
+additional info and specifications.
 """
 import argparse
 import csv
